@@ -1,6 +1,5 @@
 # DS 3001: Foundations of Machine Learning
-## Group 22
-### Project 1
+## Project 1 : Group 22
 
 #### Group Members:
 - Matthew Beck
@@ -12,6 +11,6 @@
 
 
 #### Topic
-** The effect of marital status on employment **
+**The effect of marital status on employment**
 
 
