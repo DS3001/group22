@@ -1,7 +1,7 @@
 # DS 3001: Foundations of Machine Learning
 ## Project 1 : Group 22
 
-#### Group Members:
+#### Group Members
 - Matthew Beck
 - Jimmy Draudt
 - Enmanuel Baez
@@ -11,6 +11,6 @@
 
 
 #### Topic
-**The effect of marital status on employment**
+**The effect of marital status on employment.**
 
 
