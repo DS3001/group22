@@ -10,7 +10,7 @@
 - Ronit Reddy
 
 
-#### Topic
-**The effect of marital status on employment.**
+#### Group Topic
+The effect of marital status on employment.
 
 
