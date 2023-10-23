@@ -11,6 +11,9 @@
 
 
 #### Group Topic
-The effect of marital status on employment.
+The relationship between marital status and employment.
+
+#### Research Question
+Is there evidence for a relationship between marital status and employment in the GSS data?
 
 
