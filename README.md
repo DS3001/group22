@@ -1,5 +1,5 @@
 # DS 3001: Foundations of Machine Learning
-## Project 1 : Group 22
+## Projects 1 & 2: Group 22
 
 #### Group Members
 - Matthew Beck
@@ -10,10 +10,10 @@
 - Ronit Reddy
 
 
-#### Group Topic
+#### Project 1 Topic
 The relationship between marital status and employment.
 
-#### Research Question
+#### Project 1 Research Question
 Is there evidence for a relationship between marital status and employment in the GSS data?
 
 
